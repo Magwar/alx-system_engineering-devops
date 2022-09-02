@@ -1,2 +1,2 @@
 #!/bin/bash
-ls "1-listit"
+echo "Applications/Documents/Dropbox/Movies/Pictures/Desktop/Downloads/Library/Music/Public"
