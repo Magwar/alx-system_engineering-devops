@@ -1,2 +1,2 @@
 #!/bin/bash
-echo vi /ets/passwd
+echo less /ets/passwd
