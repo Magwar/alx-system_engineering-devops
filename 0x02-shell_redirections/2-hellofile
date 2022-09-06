@@ -1,2 +1,2 @@
 #!/bin/bash
-vi /ets/passwd
+cat /ets/passwd
