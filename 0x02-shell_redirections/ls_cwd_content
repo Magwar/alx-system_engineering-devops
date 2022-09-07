@@ -1,5 +1,5 @@
-total 0
-drwxr-xr-x 1 magwar magwar 4096 Sep  7 16:35 .
+total 4
+drwxr-xr-x 1 magwar magwar 4096 Sep  7 16:44 .
 drwxr-xr-x 1 magwar magwar 4096 Sep  6 23:48 ..
 -rwxr-xr-x 1 magwar magwar   32 Sep  6 12:58 0-hello_world
 -rwxr-xr-x 1 magwar magwar   28 Sep  6 14:21 1-confused_smiley
@@ -9,6 +9,6 @@ drwxr-xr-x 1 magwar magwar 4096 Sep  6 23:48 ..
 -rwxr-xr-x 1 magwar magwar   35 Sep  6 16:59 5-firstlines
 -rwxr-xr-x 1 magwar magwar   40 Sep  6 18:49 6-third_line
 -rwxr-xr-x 1 magwar magwar   99 Sep  7 16:10 7-file
--rwxr-xr-x 1 magwar magwar   53 Sep  7 16:35 8-cwd_state
+-rwxr-xr-x 1 magwar magwar   36 Sep  7 16:44 8-cwd_state
 -rw-r--r-- 1 magwar magwar   89 Sep  6 11:45 README.md
--rw-r--r-- 1 magwar magwar    0 Sep  7 16:36 ls_cwd_content
+-rw-r--r-- 1 magwar magwar    0 Sep  7 16:47 ls_cwd_content
